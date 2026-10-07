@@ -1,5 +1,20 @@
-## Hi there 👋
+#God_spud 
 
+### **God_spud**
+*noun*
+---
+### **Definitions**
+1. **Idiot**
+2. **Crazy**
+
+---
+
+## Hello there i like poataos
+like alot
+
+anyhoo
+
+I have my own FS cos i hate myself
 <!--
 **Godspud/Godspud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
