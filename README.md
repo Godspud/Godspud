@@ -14,7 +14,7 @@ like alot
 
 anyhoo
 
-I have my own FS cos i hate myself
+I have my own FS cos i hate myself and OS and custom ls tool
 <!--
 **Godspud/Godspud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
